@@ -34,17 +34,14 @@ class ImalinNijitha:
         self.stack = [
             "Python", "SQL", "Power BI", "Tableau",
             "Machine Learning", "LangGraph", "Flask",
-            "NumPy", "Pandas", "Scikit-learn", "Plotly"
-        ]
+            "NumPy", "Pandas", "Scikit-learn", "Plotly"]
         self.currently_learning = [
             "LangGraph & Agentic AI Workflows",
             "Advanced Generative AI (LLMs, RAG)",
-            "MLOps & Model Deployment",
-        ]
+            "MLOps & Model Deployment",]
         self.fun_fact = (
             "I once built an AI that reads legal contracts "
-            "so lawyers don't have to! ⚖️🤖"
-        )
+            "so lawyers don't have to! ⚖️🤖")
     def motto(self):
         return "Data is the new oil — I'm here to refine it. 🔥"
 
