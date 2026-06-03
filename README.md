@@ -40,7 +40,6 @@ name       : Imalin Nijitha I
 role       : AI Engineer & Data Analyst
 degree     : B.Tech – Information Technology
 college    : Francis Xavier Engineering College, TN
-cgpa       : 8.4 / 10
 location   : Nagercoil, Tamil Nadu, India
 experience : 6 Industry Internships
 ```
@@ -274,7 +273,7 @@ Flask / APIs              ████████████░░░░░░
       Francis Xavier Engineering College, Tirunelveli, TN            
       2021 – 2025  |  CGPA: 8.4 / 10                                 
   📘  HSC (Class XII) — 94%                                           
-      Amala Annai Matriculation & Higher Secondary School, TN
+ Amala Annai Matriculation & Higher Secondary School, TN
       2021                                                            
 
   📗  SSLC (Class X) — 91%                                            
