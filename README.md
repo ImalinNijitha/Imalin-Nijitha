@@ -43,7 +43,6 @@ college    : Francis Xavier Engineering College, TN
 cgpa       : 8.4 / 10
 location   : Nagercoil, Tamil Nadu, India
 experience : 6 Industry Internships
-motto      : "Data is the new oil — I'm here to refine it 🔥"
 ```
 
 <br/>
