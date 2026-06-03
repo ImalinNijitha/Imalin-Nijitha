@@ -1,12 +1,10 @@
 <div align="center">
 
-<!-- Animated Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Imalin%20Nijitha%20I&fontSize=52&fontColor=fff&animation=twinkling&fontAlignY=35&desc=AI%20Engineer%20%7C%20Data%20Analyst%20%7C%20ML%20Enthusiast&descAlignY=58&descSize=18&stroke=ffffff&strokeWidth=1" width="100%"/>
+<!-- CINEMATIC HEADER — Split color glitch banner -->
+<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:0a0a1a,30:0d1b4b,60:1a0533,100:0a0a1a&height=240&section=header&text=IMALIN%20NIJITHA%20I&fontSize=58&fontColor=ffffff&animation=blinking&fontAlignY=50&desc=AI%20Engineer%20%E2%80%A2%20Data%20Analyst%20%E2%80%A2%20ML%20Specialist&descAlignY=72&descSize=16&stroke=6c63ff&strokeWidth=2" width="100%"/>
 
-<!-- Animated Typing SVG -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=2800&pause=900&color=70A5FD&center=true&vCenter=true&width=800&lines=🤖+AI+%26+Data+Analytics+Engineer;🧠+Machine+Learning+%26+LangGraph+Expert;📊+Power+BI+%7C+Tableau+%7C+Python+Specialist;🚀+Building+Intelligent+Agentic+AI+Systems;🔥+Turning+Raw+Data+into+Strategic+Gold" alt="Typing SVG" />
-</a>
+<!-- Glitch Typing Effect -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=22&duration=2400&pause=800&color=00F5FF&center=true&vCenter=true&multiline=false&width=900&lines=%E2%96%B6+Building+Agentic+AI+Systems+with+LangGraph;%E2%96%B6+Power+BI+%7C+Tableau+%7C+Python+%7C+ML+Expert;%E2%96%B6+6+Industry+Internships+%E2%80%A2+Infosys+%7C+TCS+%7C+PwC;%E2%96%B6+Turning+Raw+Data+into+Strategic+Intelligence)](https://git.io/typing-svg)
 
 <br/>
 
@@ -24,12 +22,14 @@
   &nbsp;
   <img src="https://img.shields.io/badge/Status-Open%20to%20Work-00C853?style=flat-square&logo=checkmarx&logoColor=white"/>
   &nbsp;
-  <img src="https://img.shields.io/badge/Location-Tamil%20Nadu%2C%20India-FF6D00?style=flat-square&logo=googlemaps&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Location-Nagercoil%2CTamil%20Nadu%2C%20India-FF6D00?style=flat-square&logo=googlemaps&logoColor=white"/>
 </p>
 
 </div>
 
----
+<div align="center">
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
+</div>
 
 ## 🌟 Who Am I?
 
@@ -98,28 +98,6 @@ motto      : "Data is the new oil — I'm here to refine it 🔥"
 ---
 
 ## 💼 Experience Timeline
-
-<div align="center">
-
-```
-2024 ──────────────────────────────────────────────────────────────── 2026
-  │                                                                      │
-  ├─ 🎭 Accenture          Data Analytics & Visualization Intern         │
-  │                                                                      │
-  ├─ 🏢 TCS                Data Visualization Intern                     │
-  │                                                                      │
-  ├─ 🔷 PwC Switzerland    Power BI Intern                               │
-  │                                                                      │
-  ├─ 💡 NEEVAS             Data Science Intern                           │
-  │                                                                      │
-  ├─────────────────────────── 2025 ───────────────────────────────────  │
-  │                                                                      │
-  ├─ 📈 Navodita Infotech  Data Analytics Intern                         │
-  │                                                                      │
-  └─ 🤖 Infosys            AI Intern (LangGraph · Agentic AI)  ──────── ▶
-```
-
-</div>
 
 <details>
 <summary><b>🤖 Artificial Intelligence Intern — Infosys (Remote) | Jan 2026 – Present</b></summary>
@@ -304,30 +282,6 @@ Flask / APIs              ████████████░░░░░░
       Amala Annai Matriculation & Higher Secondary School, TN         
       2019                                                            
 ```
-
-</div>
-
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/imalinnijitha/imalinnijitha/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/imalinnijitha/imalinnijitha/output/github-snake.svg" />
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/imalinnijitha/imalinnijitha/output/github-snake.svg" />
-</picture>
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=imalinnijitha&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4" width="100%"/>
 
 </div>
 
